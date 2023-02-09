@@ -35,6 +35,7 @@ Procedure of creating a floating commit with tag:
 - if something has been stashed: restore it
 - re-create the same configuration file (may be deleted when checkout back)
 - add configuration file to *.gitignore* (it should not be part of working branch)
+
 If release is also needed:
 - ScriptHandler API: query repos
 - get ID of the current repo by remote URL
