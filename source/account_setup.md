@@ -1,5 +1,5 @@
 # User Account Setup
-This section covers basic account setup that will allow you to begin your journey with FlowWide Workbench!
+This section covers basic account setup that will allow you to begin your journey with FloWide Workbench!
 (log_in_adm)=
 ## Log in as admin
 First of all you need to log in as admin to [Keycloack](https://www.keycloak.org/)

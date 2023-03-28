@@ -1,15 +1,17 @@
 # workbench-docs
 
-https://www.sphinx-doc.org/en/master/
+[Sphinx documentation](https://www.sphinx-doc.org)
 
-##Ubuntu:
+## Ubuntu:
 
-sudo apt-get install python3-sphinx
-
+```shell
 sudo apt install python3-pip
+
+pip install sphinx
 
 pip install myst_parser
 
 pip install furo
 
 sphinx-build -b html source/ build/html
+```

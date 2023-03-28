@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'FlowWide Workbench Documentation'
-copyright = '2023, FlowWide'
-author = 'FlowWide'
+project = 'FloWide Workbench Documentation'
+copyright = '2023, FloWide'
+author = 'FloWide'
 release = '0.1.9'
 
 # -- General configuration ---------------------------------------------------
